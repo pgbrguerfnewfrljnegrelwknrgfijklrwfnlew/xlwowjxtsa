@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>321 Sex Chat</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="Free sex chat rooms for adults">
+<meta name="keywords" content="sex chat, adult chat, bdsm chat, roleplay chat">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<link id="siteicon" rel="shortcut icon" type="image/png" href="default_images/icon.png?v=4.77" />
+<link rel="stylesheet" type="text/css" href="js/fancybox/jquery.fancybox.css?v=4.77" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css?v=4.77" />
+<link rel="stylesheet" type="text/css" href="css/selectboxit.css?v=4.77" />
+<link rel="stylesheet" type="text/css" href="js/jqueryui/jquery-ui.min.css?v=4.77" />
+<link rel="stylesheet" type="text/css" href="css/main.css?v=4.77" />
+<link rel="stylesheet" type="text/css" href="control/login/Default/login.css?v=4.77" />
+<link id="gradient_sheet" rel="stylesheet" type="text/css" href="css/colors.css?v=4.77" />
+<link id="actual_theme" rel="stylesheet" type="text/css" href="css/themes/Lite/Lite.css?v=4.77" />
+<link rel="stylesheet" type="text/css" href="css/responsive.css?v=4.77" />
+<script data-cfasync="false" src="js/jquery-1.11.2.min.js?v=4.77"></script>
+<script data-cfasync="false" src="system/language/English/language.js?v=4.77"></script>
+<script data-cfasync="false" src="js/fancybox/jquery.fancybox.js?v=4.77"></script>
+<script data-cfasync="false" src="js/jqueryui/jquery-ui.min.js?v=4.77"></script>
+<script data-cfasync="false" src="js/global.min.js?v=4.77"></script>
+<script data-cfasync="false" src="js/function_split.js?v=4.77"></script>
+<script src='https://google.com/recaptcha/api.js'></script>
+<link rel="stylesheet" type="text/css" href="css/custom.css?v=4.77" />
+<script data-cfasync="false">
+		var pageEmbed = 0;
+		var pageRoom = 1;
+		var curPage = 'home';
+		var loadPage = '';
+		var bbfv = '?v=4.77';
+		var rtlMode = '0';
+	</script>
+<script data-cfasync="false">
+		var logged = 0;
+		var utk = '0';
+		var recapt = 1;
+		var recaptKey = '6LfBEV4UAAAAAPxBefLibwWu4c7f82omSTUMbJW3';
+	</script>
+<script async src='/cdn-cgi/challenge-platform/h/b/scripts/invisible.js?ts=1651046400'></script></head>
+<body>
+<div id="login_wrap" class="back_login">
+<div id="header2" class="background_header">
+<div id="wrap_main_header">
+<div id="main_header" class="out_head headers">
+<div class="head_logo">
+<img id="main_logo" alt="Sex Chat Logo" src="https://nchat.321sexchat.com/default_images/logo.png?v=4.77" height="40" width="77.66" style:"width:77.66px; height:40px; />
+</div>
+<div class="bcell_mid login_main_menu">
+</div>
+<div onclick="getLanguage();" class="bclick bcell_mid_center" id="open_login_menu">
+<img alt="flag" class="intro_lang" src="https://nchat.321sexchat.com/system/language/English/flag.png" height="16.89" width="26" style:"width:26px; height:16.89px; />
+</div>
+</div>
+</div>
+</div>
+<div class="empty_subhead">
+</div>
+<div id="intro_top" class="btable">
+<div class="bcell_mid">
+<div id="login_all" class="pad30">
+<div class="login_text bpad15 centered_element">
+<p class="login_title_text bold text_jumbo bpad5">Meet New People</p>
+<p class="login_sub_text bold text_med">Our chat community gives you the opportunity of making new friends and sharing good moments with other people.</p>
+</div>
+<div class="centered_element login_box">
+<button onclick="getLogin();" class="intro_login_btn large_button_rounded  ok_btn"><i class="fa fa-send"></i> Login</button>
+<div class="clear"></div>
+<button onclick="getGuestLogin();" class="intro_guest_btn large_button_rounded default_btn">Guest login</button>
+</div>
+<div id="not_yet_member" class="login_not_member bclick">
+<p onclick="getRegistration();" class="inblock login_register_text pad10">Not yet a member ? register now.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="section back_xlite" id="intro_section_user">
+<div class="section_content">
+<div class="section_inside">
+<div id="last_active">
+<div class="left-arrow"></div>
+<div class="right-arrow"></div>
+<div class="last-clip">
+<div class="last_10">
+<div class="active_user" height="110" width="132.5" style="width:132.5px; height:110px;">
+<img alt="Becky crocker" title="Becky crocker" class="active_avatar" src="https://nchat.321sexchat.com/avatar/avatar_user17892292_1651046129.jpg" height="110" />
+</div><div class="active_user" height="110" width="132.5" style="width:132.5px; height:110px;">
+<img alt="Isiah_19" title="Isiah_19" class="active_avatar" src="https://nchat.321sexchat.com/avatar/avatar_user17885553_1651048357.jpg" height="110" />
+</div><div class="active_user" height="110" width="132.5" style="width:132.5px; height:110px;">
+<img alt="Lickit" title="Lickit" class="active_avatar" src="https://nchat.321sexchat.com/default_images/avatar/default_male.png" height="110" />
+</div><div class="active_user" height="110" width="132.5" style="width:132.5px; height:110px;">
+<img alt="Vanessa Nessie" title="Vanessa Nessie" class="active_avatar" src="https://nchat.321sexchat.com/avatar/avatar_user17864582_1650736239.jpg" height="110" />
+</div><div class="active_user" height="110" width="132.5" style="width:132.5px; height:110px;">
+<img alt="HungStudTeacher" title="HungStudTeacher" class="active_avatar" src="https://nchat.321sexchat.com/avatar/avatar_user17849786_1650572152.jpg" height="110" />
+</div><div class="active_user" height="110" width="132.5" style="width:132.5px; height:110px;">
+<img alt="HellAndMadness" title="HellAndMadness" class="active_avatar" src="https://nchat.321sexchat.com/avatar/avatar_user17823070_1650270831.jpg" height="110" />
+</div><div class="active_user" height="110" width="132.5" style="width:132.5px; height:110px;">
+<img alt="lisa92t" title="lisa92t" class="active_avatar" src="https://nchat.321sexchat.com/avatar/avatar_user17778245_1649767960.jpg" height="110" />
+</div><div class="active_user" height="110" width="132.5" style="width:132.5px; height:110px;">
+<img alt="Side Dish" title="Side Dish" class="active_avatar" src="https://nchat.321sexchat.com/avatar/avatar_user17755699_1650192685.jpg" height="110" />
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="section" id="intro_section_bottom">
+</div>
+<div class="section intro_footer" id="main_footer">
+<div class="section_content">
+<div class="section_inside">
+<div id="menu_main_footer">
+<ul style="margin:0; padding:0; width=" 1100px;" width="1100">
+<li class="bclick"><a href="https://www.321sexchat.com/">Sex Chat</a> </li>
+<li class="bclick"><a href="https://www.321sexchat.com/roleplay-chatroom/">Roleplay Chat</a> </li>
+<li class="bclick"><a href="https://www.321sexchat.com/porn-chatroom/">Porn Chat</a></li>
+<li class="bclick"><a href="https://www.321sexchat.com/bdsm-chatroom/">BDSM Chat</a></li>
+<li class="bclick"><a href="https://www.321sexchat.com/mobile-chatroom/">Sext Chat</a></li>
+<li class="bclick"><a href="https://www.321sexchat.com/gay-chatroom/">Gay Chat</a></li>
+<li class="bclick"><a href="https://www.321sexchat.com/lesbian-chatroom/">Lesbian Chat</a></li>
+<li class="bclick"><a href="https://www.321sexchat.com/tranny-chatroom/">Tranny Chat</a></li>
+<li class="bclick"><a href="https://www.321sexchat.com/furry-chatroom/">Furry Chat</a></li>
+<li class="bclick"><a href="https://www.321sexchat.com/furry/">Furry Chat</a></li>
+<li class="bclick"><a href="https://www.321sexchat.com/cuckold-chatroom/">Cuckold Chat</a></li>
+<li class="bclick"><a href="https://www.321sexchat.com/younger-4-older-chatroom/">Younger For Older</a></li>
+</ul>
+<br><br>
+<a href="https://www.321sexchat.com/rules.html">Rules</a> |
+<a href="https://www.321sexchat.com/terms-of-use.html">Terms of Use</a> |
+<a href="https://www.321sexchat.com/privacy-policy.html">Privacy Policy</a>
+<li class="bclick" onclick="getLanguage();"><i class="fa fa-language"></i> Language</li>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<script data-cfasync="false" src="js/function_login.js?v=4.77"></script>
+<script data-cfasync="false" src="js/function_active.js?v=4.77"></script><div id="side_content" class="chat_side_panel">
+<div id="side_top" class="side_bar">
+<div class="side_bar_item close_side">
+<i class="fa fa-times"></i>
+</div>
+<div class="bcell_mid">
+</div>
+</div>
+<div id="side_inside">
+</div>
+</div>
+<div id="small_modal" class="small_modal_out modal_back">
+<div id="small_modal_in" class="small_modal_in modal_in">
+<div class="modal_top">
+<div class="modal_top_empty">
+</div>
+<div class="modal_top_element close_modal">
+<i class="fa fa-times"></i>
+</div>
+</div>
+<div id="small_modal_content" class="modal_content small_modal_content">
+</div>
+</div>
+</div>
+<div id="large_modal" class="large_modal_out modal_back">
+<div id="large_modal_in" class="large_modal_in modal_in">
+<div id="large_modal_content" class="modal_content large_modal_content">
+</div>
+</div>
+</div>
+<div id="over_modal" class="over_modal_out modal_back">
+<div id="over_modal_in" class="over_modal_in modal_in">
+<div class="modal_top">
+<div class="modal_top_empty">
+</div>
+<div class="modal_top_element close_over">
+<i class="fa fa-times"></i>
+</div>
+</div>
+<div id="over_modal_content" class="modal_content over_modal_content">
+</div>
+</div>
+</div>
+<div id="over_emodal" class="over_emodal_out modal_back">
+<div id="over_emodal_in" class="over_emodal_in modal_in">
+<div id="over_emodal_content" class="modal_content over_emodal_content">
+</div>
+</div>
+</div>
+<div class="saved_data">
+<span class="saved_span"></span>
+</div>
+<link href="https://fonts.googleapis.com/css2?family=Signika:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Grandstander:wght@400;700;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lemonada:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@400;700;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Amita:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Averia+Libre:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Turret+Road:wght@400;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Sansita:wght@400;700;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Charm:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lobster+Two:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/fonts.css?v=4.77">
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'702649ba1c2e3818',m:'AX_QR30tLMDRhyF5BiGQyMRsxb4JnCPMGMjui2RF64M-1651049189-0-AdL5REQofZO3BWKl0n/kuuuKEzJfOC4dA8KVQHdjufMHLLong19PuXyW6Pz1ZVy4+xqwuXI7P+ES8xmMhgowcIHkexYat8tGc0nWkBM3pyv1U+J1wIuE+yuYmOx8bgAT4w==',s:[0x8e24c47363,0xaf9e0ea6d0],u:'/cdn-cgi/challenge-platform/h/b'}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"702649ba1c2e3818","token":"38cb30ff74ce4a32876da9fcc1a8cdd6","version":"2021.12.0","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
